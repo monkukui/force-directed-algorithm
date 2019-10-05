@@ -13,3 +13,6 @@ fource-directed-algorithm
 ## require
 - processing
 - java
+
+## 実行結果
+![スクリーンショット 2019-10-05 16 47 14](https://user-images.githubusercontent.com/47474057/66251884-44f93380-e790-11e9-9b32-1f47ef62ccaa.png)
